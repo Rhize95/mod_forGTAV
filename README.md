@@ -19,6 +19,7 @@ HeapAdjuster/Heap Limit Adjuster
 
 Optional:
 Raindrop Texture [4K/8K]: https://id.gta5-mods.com/misc/raindrop-texture-4k-8k-kairu
+Enhance Streetlights [Overhaul]: https://id.gta5-mods.com/misc/enhance-streetlights-overhaul
 Real Rain: https://www.gta5-mods.com/misc/enhanced-rain-mod
 Insane Rain Mod: https://id.gta5-mods.com/misc/insane-rain-mod
 CityLights: https://id.gta5-mods.com/maps/citylights-v1-visualparadox
