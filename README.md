@@ -11,7 +11,7 @@ ScriptHookV
 
 Installation:
 1. Unpack/extract file            
-2. Run OpenIV-> Tools-> Package Installer-> Open Visual Graphics 1.0.oiv-> Install-> Mods folder
+2. Run OpenIV-> Tools-> Package Installer-> Open Visual Graphics+.oiv-> Install-> Mods folder
 3. Done.
 
 Recommendation:
