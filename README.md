@@ -38,4 +38,3 @@ Thanks to:
 OpenIV
 ScriptHookV 
 OIV package creator
-My inspiration
